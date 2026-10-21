@@ -1,0 +1,6 @@
+app-header,
+app-sidebar,
+app-content,
+app-footer {
+  display: contents;
+}
